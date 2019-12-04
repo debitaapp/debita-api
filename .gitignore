@@ -1,0 +1,19 @@
+#IOS
+.DS_Store
+
+#Config
+/**/*.env
+/**/.nyc_output
+/**/coverage
+
+#IDES
+.idea/
+
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+.webpack
+.build
